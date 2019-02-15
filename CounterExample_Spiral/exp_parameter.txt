@@ -1,0 +1,4 @@
+TD: lam=0.0, alpha=2-14 gamma=0.9 #_of_episodes=6,300 starting_w = -10.
+ETD: lam=0.0, alpha=2-17 gamma=0.9 #_of_episodes=50,000 starting_w = -10.
+
+
